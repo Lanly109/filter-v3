@@ -1,0 +1,9 @@
+姓名：吴金霖
+性别：男
+年级：初一
+学校：深圳市耀华实验学校
+要提交的文件名：
+power/power.cpp
+live/live.cpp
+expr/expr.cpp
+number/number.cpp

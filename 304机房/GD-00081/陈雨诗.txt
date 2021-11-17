@@ -1,0 +1,5 @@
+姓名：陈雨诗
+性别：女
+年级：初三
+学校：深圳市耀华实验学校
+提交文件：live.cpp , power.cpp , number.cpp , expr.cpp

@@ -1,0 +1,5 @@
+姓名：丁天睿。
+性别：男。
+年级：初二。
+学校：深圳市高级中学。
+要提交的文件名：power.cpp	live.cpp	expr.cpp	number.cpp

@@ -1,0 +1,9 @@
+姓名:隆彦洁
+性别:女
+年级:九年级
+学校:丹堤实验学校
+要提交的文件名:
+power.cpp 
+live.cpp 
+expr.cpp 
+number.cpp

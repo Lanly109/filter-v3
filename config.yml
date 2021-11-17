@@ -1,0 +1,31 @@
+BeginTime:
+  "2021-10-23 14:30:00"
+EndTime:
+  "2021-10-23 18:30:00"
+ContestantPath:
+  ./gdfz
+ContestSite:
+  gdfz
+TargetPath:
+  null
+RoomName:
+  ''
+ContestantListFile:
+  namelist.csv
+CsvGBK:
+  False
+SkipHead:
+  True
+Problems:
+  - airport
+  - plain
+  - traffic
+  - bracket
+ValidSuffix:
+  - cpp
+  - pas
+  - c
+SummaryFile:
+  sample.log
+TimeErrorLog:
+  error.log
